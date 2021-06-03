@@ -1,6 +1,6 @@
 # versatile-2021 
 *Im begginer 
 
-*python is interesting
+*Python is interesting
 
-*easy and accesible programming language
+*Easy and accesible programming language
